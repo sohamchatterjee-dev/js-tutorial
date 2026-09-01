@@ -7,3 +7,10 @@
 // git push -u origin main
 
 console.log("soham");
+const accountId = 12334
+let accountEmail = "s.com"
+var accountPassword = "111"
+accountCity = "kolkata"
+let accountState = "wb"
+
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
